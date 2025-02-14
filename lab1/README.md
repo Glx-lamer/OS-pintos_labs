@@ -114,15 +114,10 @@ timer_sleep (int64_t ticks)
 
 ```c title=intr_level
 /* Interrupts on or off? */
-
 enum intr_level
-
   {
-
     INTR_OFF,             /* Interrupts disabled. */
-
     INTR_ON               /* Interrupts enabled. */
-
   };
 ```
 
