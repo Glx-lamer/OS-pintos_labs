@@ -70,7 +70,7 @@ timer_sleep (int64_t ticks)
 	Загружается процессор, а процесс передается в управление планировщика
 5. Конец
 
-![[diagram 1.png]]
+![diagram](https://github.com/Glx-lamer/OS-pintos_labs/blob/main/lab1/info/diagram.png?raw=true)
 
 Что нужно сделать:
 
@@ -170,7 +170,7 @@ pop_thread ()
 
 Так, работу модифицированного таймера можно отобразить на диаграмме:
 
-![[diagram2.png]]
+![diagram](https://github.com/Glx-lamer/OS-pintos_labs/blob/main/lab1/info/diagram2.png?raw=true)
 
 Результаты тестов:
 ![[{154D209D-2C8E-4E52-B9D1-C85F1B812BEA}.png]]
